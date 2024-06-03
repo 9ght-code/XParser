@@ -1,0 +1,17 @@
+C:\Users\Night\source\repos\XParser\XParser\bin\Release\XParser.exe.config
+C:\Users\Night\source\repos\XParser\XParser\bin\Release\XParser.exe
+C:\Users\Night\source\repos\XParser\XParser\bin\Release\XParser.pdb
+C:\Users\Night\source\repos\XParser\XParser\obj\Release\XParser.csproj.AssemblyReference.cache
+C:\Users\Night\source\repos\XParser\XParser\obj\Release\XParser.csproj.CoreCompileInputs.cache
+C:\Users\Night\source\repos\XParser\XParser\obj\Release\XParser.exe
+C:\Users\Night\source\repos\XParser\XParser\obj\Release\XParser.pdb
+C:\Users\Night\source\repos\XParser\XParser\bin\Release\System.Buffers.dll
+C:\Users\Night\source\repos\XParser\XParser\bin\Release\System.Memory.dll
+C:\Users\Night\source\repos\XParser\XParser\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Night\source\repos\XParser\XParser\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Night\source\repos\XParser\XParser\bin\Release\Spectre.Console.xml
+C:\Users\Night\source\repos\XParser\XParser\obj\Release\XParser.csproj.Up2Date
+C:\Users\Night\source\repos\XParser\XParser\bin\Release\EPPlus.dll
+C:\Users\Night\source\repos\XParser\XParser\bin\Release\LinqForEEPlus.dll
+C:\Users\Night\source\repos\XParser\XParser\bin\Release\EPPlus.xml
+C:\Users\Night\source\repos\XParser\XParser\bin\Release\Spectre.Console.dll

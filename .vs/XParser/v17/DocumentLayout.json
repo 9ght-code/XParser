@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Night\\source\\repos\\XParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49314154-30AA-4825-8FDD-858F407A7EC4}|XParser\\XParser.csproj|c:\\users\\night\\source\\repos\\xparser\\xparser\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49314154-30AA-4825-8FDD-858F407A7EC4}|XParser\\XParser.csproj|solutionrelative:xparser\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49314154-30AA-4825-8FDD-858F407A7EC4}|XParser\\XParser.csproj|C:\\Users\\Night\\source\\repos\\XParser\\xparser\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49314154-30AA-4825-8FDD-858F407A7EC4}|XParser\\XParser.csproj|solutionrelative:xparser\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49314154-30AA-4825-8FDD-858F407A7EC4}|XParser\\XParser.csproj|C:\\Users\\Night\\source\\repos\\XParser\\xparser\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49314154-30AA-4825-8FDD-858F407A7EC4}|XParser\\XParser.csproj|solutionrelative:xparser\\parser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Options.cs",
+              "DocumentMoniker": "C:\\Users\\Night\\source\\repos\\XParser\\XParser\\Options.cs",
+              "RelativeDocumentMoniker": "XParser\\Options.cs",
+              "ToolTip": "C:\\Users\\Night\\source\\repos\\XParser\\XParser\\Options.cs",
+              "RelativeToolTip": "XParser\\Options.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T19:17:27.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Night\\source\\repos\\XParser\\XParser\\Main.cs",
+              "RelativeDocumentMoniker": "XParser\\Main.cs",
+              "ToolTip": "C:\\Users\\Night\\source\\repos\\XParser\\XParser\\Main.cs",
+              "RelativeToolTip": "XParser\\Main.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAIwB0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T18:52:49.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parser.cs",
+              "DocumentMoniker": "C:\\Users\\Night\\source\\repos\\XParser\\XParser\\Parser.cs",
+              "RelativeDocumentMoniker": "XParser\\Parser.cs",
+              "ToolTip": "C:\\Users\\Night\\source\\repos\\XParser\\XParser\\Parser.cs",
+              "RelativeToolTip": "XParser\\Parser.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowEoAAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:54:17.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
